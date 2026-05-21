@@ -40,6 +40,7 @@ Error generating stack: `+e.message+`
   border-radius: 4px;
   font-size: 1rem;
   background: #f9f9f9;
+  color: #000;
 `,or=({value:e,onChange:t})=>(0,j.jsxs)(rr,{children:[(0,j.jsx)(ir,{children:`Фільтр по імені`}),(0,j.jsx)(ar,{type:`text`,value:e,onChange:e=>t(e.target.value)})]}),sr=Jn.div`
   border: 1px solid #ccc;
   padding: 16px;
@@ -54,7 +55,7 @@ Error generating stack: `+e.message+`
   margin-bottom: 12px;
   resize: vertical;
   background: #f9f9f9;
-  color: #333;
+  color: #000;
 `,lr=Jn.button`
   padding: 12px 32px;
   background: #2db52d;
