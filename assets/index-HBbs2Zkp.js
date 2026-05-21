@@ -54,6 +54,7 @@ Error generating stack: `+e.message+`
   margin-bottom: 12px;
   resize: vertical;
   background: #f9f9f9;
+  color: #333;
 `,lr=Jn.button`
   padding: 12px 32px;
   background: #2db52d;
